@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KarthiKeyan P</h1>
-<h3 align="center">A Student of Cyber Security and Digital Forensics, having great communicational skills and Superior knowledge of Android application development and Cryptography.</h3>
+<h3 align="center">A Student of Cyber Security and Digital Forensics, having great communicational skills and Superior knowledge of Mobile application development and Cryptography.</h3>
 
 - 🔭 I’m currently working on [Only NEWS Application](https://github.com/KarthikeyanPegasus/Only)
 
