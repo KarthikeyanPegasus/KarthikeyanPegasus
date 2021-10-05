@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Only NEWS Application](https://github.com/KarthikeyanPegasus/Only)
 
-- 🌱 I’m currently learning **Kotlin, react.**
+- 🌱 I’m currently learning **Flutter, Java.**
 
 - 💬 Ask me about **Java, Mobile Application Development, UX design**
 
