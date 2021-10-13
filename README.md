@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java.**
 
-- 💬 Ask me about **Java, Mobile Application Development, UX design**
+- 💬 Ask me about **Java, Flutter, UX design**
 
 - 📫 How to reach me **palanikarthikeyan26@gmail.com.**
 
