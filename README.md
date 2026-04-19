@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm KarthiKeyan P</h1>
-<h3 align="center">Software Developer @Appointy. Backend Developer also interested in Flutter Application Development</h3>
+<h3 align="center">Backend Developer, building saas</h3>
 
-
-
-- 🌱 I’m currently learning **Flutter, GoLang**
 
 - 💬 Ask me about **GoLang, Flutter, UX design**
 
